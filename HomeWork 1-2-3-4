@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <title>Page Title</title>
+
+         <link rel="stylesheet" href="style.css">
+
+         <style>
+            body {background-color: papayawhip;}
+            h1   {color: olive;}
+            p    {color: mediumvioletred	;}
+            P    {border:1px solid mediumvioletred}
+        </style>
+    </head>
+<body>
+    <h1>HomeWork - İnternet Based Programming</h1>  
+
+    <p>Link için tıklayın</p>
+    <a href="https://www.google.com.tr/?hl=tr"> Link </a>
+
+
+</body>
+</html>
